@@ -63,15 +63,14 @@ To run the Nutrition Counter app locally, follow these steps:
     npm install
 5. To run the FE:
     ```
-    npx react-native run-android
+    cd Front
+    npm start
     ```
 6. To run BE:
     ```
     cd Backend
-    python beckend.py
+    npx nodemon start
 
 
-## Snapshots 
 
-![](https://imgur.com/0to5NFV)
     
